@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class TouchManager : MonoBehaviour {
+public class SpriteImageController : MonoBehaviour {
     
     private const float AdjustOnPanning = 0.01f;
     private const float AdjustOnZooming = 0.07f;
