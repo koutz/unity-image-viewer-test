@@ -1,6 +1,6 @@
 # unity-image-viewer-test
 - Unityのタッチ処理による画像のPan/Zoom
-- ダウンロードした画像を表示するテスト
+- ダウンロードした画像を表示する
 - シーン切り替え
 
 ### Spriteによる画像表示Scene
